@@ -1,4 +1,4 @@
-# tsconfig
+# tsconfig [![npm version](https://badge.fury.io/js/%40gilbarbara%2Ftsconfig.svg)](https://badge.fury.io/js/%40gilbarbara%2Ftsconfig)
 
 Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 
@@ -17,11 +17,8 @@ $ npm install --save-dev @gilbarbara/tsconfig
 {
 	"extends": "@gilbarbara/tsconfig",
 	"compilerOptions": {
-		"outDir": "dist",
-		"target": "es2018",
-		"lib": [
-			"es2018"
-		]
+		"outDir": "build",
+		"target": "es5",
 	}
 }
 ```
