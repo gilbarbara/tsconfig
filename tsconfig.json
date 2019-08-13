@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"forceConsistentCasingInFileNames": true,
+		"jsx": "react",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"newLine": "lf",
+		"noEmitOnError": true,
+		"noImplicitAny": true,
+		"noFallthroughCasesInSwitch": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"pretty": true,
+		"resolveJsonModule": true,
+		"sourceMap": true,
+		"strict": true,
+		"target": "esnext"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"name": "@gilbarbara/tsconfig",
+	"version": "0.1.0",
+	"description": "Shared Typescript config",
+	"author": "Gil Barbara <gilbarbara@gmail.com>",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gilbarbara/tsconfig.git"
+	},
+	"bugs": {
+		"url": "https://github.com/gilbarbara/tsconfig/issues"
+	},
+	"homepage": "https://github.com/gilbarbara/tsconfig#readme",
+	"main": "tsconfig.json",
+	"keywords": [
+		"tsconfig",
+		"typescript"
+	],
+	"license": "MIT"
+}
