@@ -1,21 +1,25 @@
 {
 	"compilerOptions": {
-		"declaration": true,
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
 		"forceConsistentCasingInFileNames": true,
-		"jsx": "react",
+		"jsx": "react-jsx",
 		"module": "commonjs",
-		"moduleResolution": "node",
+		"moduleResolution": "Node",
 		"newLine": "lf",
 		"noEmitOnError": true,
-		"noImplicitAny": true,
 		"noFallthroughCasesInSwitch": true,
+		"noImplicitAny": true,
 		"noImplicitReturns": true,
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
 		"pretty": true,
 		"resolveJsonModule": true,
+    "skipLibCheck": true,
 		"sourceMap": true,
 		"strict": true,
-		"target": "esnext"
+		"target": "ESNext",
+    "useDefineForClassFields": true
 	}
 }
