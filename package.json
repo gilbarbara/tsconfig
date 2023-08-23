@@ -1,6 +1,6 @@
 {
 	"name": "@gilbarbara/tsconfig",
-	"version": "0.1.1",
+	"version": "0.2.0",
 	"description": "Shared Typescript config",
 	"author": "Gil Barbara <gilbarbara@gmail.com>",
 	"repository": {
