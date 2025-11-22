@@ -8,7 +8,6 @@ Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig
 $ npm install --save-dev @gilbarbara/tsconfig
 ```
 
-
 ## Usage
 
 `tsconfig.json`
@@ -18,11 +17,10 @@ $ npm install --save-dev @gilbarbara/tsconfig
 	"extends": "@gilbarbara/tsconfig",
 	"compilerOptions": {
 		"outDir": "build",
-		"target": "es5",
+		"target": "es5"
 	}
 }
 ```
-
 
 ## License
 
